@@ -1,4 +1,4 @@
-# What's the Change? An Interesting Question in Probability
+# What's the Chance? An Interesting Question in Probability
 Let's say I have 3 numbers, one of them leads to a big price (let's call it the **TRUE number**) and you can imagine I would like to find it. 
 
 First, out of the three numbers, I will pick a random number. Then among the two left, at least one must still be fake. Now the judge will take the fake one away. 
